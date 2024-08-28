@@ -1,8 +1,11 @@
 
+import AllVideos from "./Components/AllVideos";
+
 const App = () =>{
   return(
     <>
-
+      <AllVideos/>
+     
     </>
   )
 };
